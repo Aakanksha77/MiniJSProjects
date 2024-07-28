@@ -34,7 +34,7 @@ function validateGuess(guess) {
        prevGuess.push(guess)
        if(numGuess === 10){
         displayGuess(guess)
-        displayMessage(`Game Over. Random number was ${randomNumber}`);
+        displayMessage(`Game Over & Random number was ${randomNumber}`);
         endGame()
        } else {
         displayGuess(guess)
@@ -56,9 +56,9 @@ function checkGuess(guess) {
 
 function displayGuess(guess) {
     userInput.value = ''
-    guessSlot.innerHTML += `${guess} `
+    guessSlot.innerHTML += ` ${guess}, `
     numGuess++;
-    remaining.innerHTML = `${11 - numGuess}`
+    remaining.innerHTML = `Guesses Remaing: ${11 - numGuess}`
 }
 
 function displayMessage(message) {
@@ -81,8 +81,8 @@ function newGame() {
         randomNumber = (parseInt(Math.random()*100 + 1));
         prevGuess = [];
         numGuess = 1;
-        guessSlot.innerHTML = '';
-        remaining.innerHTML = `${10 - numGuess}`;
+        guessSlot.innerHTML = 'Pervious Guess: ';
+        remaining.innerHTML = `Guesses Remaing: ${11 - numGuess}`;
         userInput.removeAttribute('disabled')
         starOver.removeChild(p)
         playGame = true
