@@ -93,7 +93,7 @@ body{
     }
   }
 
-.card{
+.card{   
     padding: 10px 20px 10px 20px;
     border-radius: 5%;
     border: solid black 5px;
@@ -105,14 +105,15 @@ body{
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
-.enter{
-    padding: 4px;
+.enter{ 
+    margin: 0% 5% 0% 25%; 
+    padding: 8px;
+    border-radius: 16px;
+    border: solid black 3px;
 }
 
 .submit{
-    border-radius: 5px;
-    padding: 4px;
-    display: inline-block;
+    margin: 5% 5% 0% 30%;
     outline: 0;
     border: 0;
     cursor: pointer;
@@ -131,4 +132,19 @@ body{
     box-shadow: 0 8px 22px 0 rgba(3, 3, 7, 0.15), 0 4px 6px 0 rgb(93 100 148 / 20%);
 }
 
-
+#newGame{
+    margin: 5% 5% 0% 30%;
+    padding: 10px 20px; /* Padding inside the button */
+            border-radius: 12px; /* Rounded corners */
+            outline: 0; /* Remove default outline */
+            border: none; /* Remove default border */
+            cursor: pointer; /* Pointer cursor on hover */
+            font-weight: bold; /* Bold font */
+            color: white; /* Text color */
+            font-size: 16px; /* Font size */
+            background-color: #007bff; /* Button background color */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+            text-align: center; /* Center text */
+            text-decoration: none; /* Remove text underline */
+            transition: background-color 0.2s ease-in-out;
+}
