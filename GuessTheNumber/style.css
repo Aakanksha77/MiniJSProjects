@@ -129,22 +129,26 @@ body{
 }
 
 .submit :hover{
-    box-shadow: 0 8px 22px 0 rgba(3, 3, 7, 0.15), 0 4px 6px 0 rgb(93 100 148 / 20%);
+    background-color: blueviolet;
 }
 
 #newGame{
-    margin: 5% 5% 0% 30%;
-    padding: 10px 20px; /* Padding inside the button */
-            border-radius: 12px; /* Rounded corners */
-            outline: 0; /* Remove default outline */
-            border: none; /* Remove default border */
-            cursor: pointer; /* Pointer cursor on hover */
-            font-weight: bold; /* Bold font */
-            color: white; /* Text color */
-            font-size: 16px; /* Font size */
-            background-color: #007bff; /* Button background color */
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
-            text-align: center; /* Center text */
-            text-decoration: none; /* Remove text underline */
-            transition: background-color 0.2s ease-in-out;
+    margin: 5% 5% 0% 5%;
+    padding: 10px 20px; 
+    border-radius: 12px; 
+    outline: 0; 
+    border: none; 
+    cursor: pointer; 
+    font-weight: bold; 
+    color: rgb(72, 76, 122); 
+    font-size: 16px;
+    background-color: #fff; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
+    text-decoration: none; 
+    transition: background-color 0.2s ease-in-out;
+}
+
+#newGame :hover{
+    background-color: blueviolet;
 }
