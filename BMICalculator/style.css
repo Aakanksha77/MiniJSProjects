@@ -21,7 +21,7 @@ body{
     display: flex;
     flex-direction: column;
     gap: 50%;
-    margin-left: 85px;
+    margin-left: 45px;
 }
 
 .calculation h1 {
@@ -52,5 +52,5 @@ button:hover {
 }
 
 .weight-Guide {
-    margin-left: 85px;
+    margin-left: 45px;
 }
