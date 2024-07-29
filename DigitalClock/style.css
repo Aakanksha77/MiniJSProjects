@@ -1,8 +1,8 @@
 body {
-    background-color: #50E3C2;
+    background-color: #50c5e0;
     background-image: 
-        radial-gradient(at 47% 33%, hsl(162.00, 77%, 40%) 0, transparent 59%), 
-        radial-gradient(at 82% 65%, hsl(198.00, 100%, 50%) 0, transparent 55%);
+        radial-gradient(at 47% 33%, hsl(62, 75%, 65%) 0, transparent 59%), 
+        radial-gradient(at 82% 65%, hsl(281, 90%, 49%) 0, transparent 55%);
 } 
 
 .center {

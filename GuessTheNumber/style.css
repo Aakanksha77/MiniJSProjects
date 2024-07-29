@@ -93,7 +93,8 @@ body{
     }
   }
 
-.card{   
+.card{ 
+    margin: 5%;  
     padding: 10px 20px 10px 20px;
     border-radius: 5%;
     border: solid black 5px;
