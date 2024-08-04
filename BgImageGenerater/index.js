@@ -38,27 +38,27 @@ const goldenAgeAlbums=[
     } 
     ];
 
-    const btn=document.querySelector('.btn-click');
+    let isDisabled = false;
+
+    const btn=document.querySelector('#start');
+    const disableBtn = document.querySelector('#disable');
 
     const bgChangeStart = function() {
+        if (isDisabled) {
+            alert("The Image is Set as BackGround")
+            console.log("Button is disabled");
+            return;
+        }
+
         let random=Math.floor(Math.random()*goldenAgeAlbums.length);
         document.querySelector('.container').style.backgroundImage=goldenAgeAlbums[random].album;
     };
 
-    
-
+    const disableBtnClick = function() {
+        isDisabled = true;
+        alert("The BackGround Image is Set");
+        console.log("Image changing is disabled");
+    };
+  
     btn.addEventListener('click', bgChangeStart);
-
-
-
-// btn.addEventListener('click',function(){
-    
-
-//     let random=Math.floor(Math.random()*goldenAgeAlbums.length);
-//     console.log(goldenAgeAlbums[random].name);
-//     console.log(goldenAgeAlbums[random].album);
-    //  document.querySelector('.top_image img').src=goldenAgeAlbums[random].album;
-    // document.body.style.backgroundImage=goldenAgeAlbums[random].album;
-//     document.querySelector('.container').style.backgroundImage=goldenAgeAlbums[random].album;
-// })
-
+    disableBtn.addEventListener('click', disableBtnClick);
