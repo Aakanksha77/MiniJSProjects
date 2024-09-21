@@ -12,15 +12,7 @@ This repository contains mini projects developed as part of the [LearnProjectBui
 ## Project 1: BGColor Generater
 
 ### About
-This project plays the music of different nature themes when clicked on the respective keyboard keys.
-
-### Features
-- 💻 Interactive and user-friendly interface
-- ⌨️ Music played after clicking the keys on the keyboard
-- ⏱️ Real-time updates
-- 🚶 Animation added
-- 🎵 Can play different music according to the key pressed
-
+The project is simply and just about the color change 
 ### Link
 [🔗 BgColorGenerater](https://aakanksha77.github.io/MiniJSProjects/BgColorGenerater/)
 
