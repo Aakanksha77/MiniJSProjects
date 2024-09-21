@@ -1,5 +1,11 @@
-# **MINIJSProject**
-This is a simple ColorSwitcher made using HTML, CSS & JS.
-Select the button change the background.
+# 🎨MINIJSProject🎨
+❗ Ongoing.
 
-Site link : https://aakanksha77.github.io/MiniJSProjects/
+This repository contains mini projects developed as part of the [LearnProjectBuilding](https://aakanksha77.github.io/MiniJSProjects).
+
+---
+
+### 💻 Technologies used:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
