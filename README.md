@@ -18,7 +18,7 @@ The project is simply and just about the color change
 
 ---
 
-## Project 1: BGImage Generater
+## Project 2: BGImage Generater
 
 ### About
 The project is simply and just about the Background Image change 
