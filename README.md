@@ -17,3 +17,12 @@ The project is simply and just about the color change
 [🔗 BgColorGenerater](https://aakanksha77.github.io/MiniJSProjects/BgColorGenerater/)
 
 ---
+
+## Project 1: BGImage Generater
+
+### About
+The project is simply and just about the Background Image change 
+### Link
+[🔗 BgImageGenerater](https://aakanksha77.github.io/MiniJSProjects/BgImageGenerater/)
+
+---
