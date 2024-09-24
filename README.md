@@ -26,3 +26,12 @@ The project is simply and just about the Background Image change
 [🔗 BgImageGenerater](https://aakanksha77.github.io/MiniJSProjects/BgImageGenerater/)
 
 ---
+
+## Project 3: Digital Clock
+
+### About
+The project is simply Digital Clock. 
+### Link
+[🔗 Digital Clock](https://aakanksha77.github.io/MiniJSProjects/DigitalClock/)
+
+---
