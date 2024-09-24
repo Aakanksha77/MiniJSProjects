@@ -35,3 +35,12 @@ The project is simply Digital Clock.
 [🔗 Digital Clock](https://aakanksha77.github.io/MiniJSProjects/DigitalClock/)
 
 ---
+
+## Project 4: Guess The Number
+
+### About
+The project is Guess Game. 
+### Link
+[🔗 Digital Clock](https://aakanksha77.github.io/MiniJSProjects/GuessTheNumber/)
+
+---
