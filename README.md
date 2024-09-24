@@ -41,6 +41,6 @@ The project is simply Digital Clock.
 ### About
 The project is Guess Game. 
 ### Link
-[🔗 Digital Clock](https://aakanksha77.github.io/MiniJSProjects/GuessTheNumber/)
+[🔗 Guess The Number](https://aakanksha77.github.io/MiniJSProjects/GuessTheNumber/)
 
 ---
