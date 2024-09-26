@@ -48,7 +48,7 @@ The project is Guess Game.
 ## Project 5: BMI Calculator
 
 ### About
-The project is Guess Game. 
+The project is BMI Calculator. 
 ### Link
-[🔗 Guess The Number](https://aakanksha77.github.io/MiniJSProjects/BMICalculator/)
+[🔗 BMI Calculator](https://aakanksha77.github.io/MiniJSProjects/BMICalculator/)
 
