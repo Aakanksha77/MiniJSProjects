@@ -52,3 +52,11 @@ The project is BMI Calculator.
 ### Link
 [🔗 BMI Calculator](https://aakanksha77.github.io/MiniJSProjects/BMICalculator/)
 
+## Project 5: Weather App
+
+### About
+The project is Weather App. 
+### Link
+[🔗 BMI Calculator](https://aakanksha77.github.io/MiniJSProjects/WeatherApp/)
+
+
