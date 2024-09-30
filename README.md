@@ -22,43 +22,49 @@ Link:
 
 ## Project 2: BGImage Generater
 
-### About
+About:
+
 The project is simply and just about the Background Image change 
-### Link
+
+Link:
 [🔗 BgImageGenerater](https://aakanksha77.github.io/MiniJSProjects/BgImageGenerater/)
 
 ---
 
 ## Project 3: Digital Clock
 
-### About
+About:
 The project is simply Digital Clock. 
-### Link
+
+Link:
 [🔗 Digital Clock](https://aakanksha77.github.io/MiniJSProjects/DigitalClock/)
 
 ---
 
 ## Project 4: Guess The Number
 
-### About
+About:
 The project is Guess Game. 
-### Link
+
+Link:
 [🔗 Guess The Number](https://aakanksha77.github.io/MiniJSProjects/GuessTheNumber/)
 
 ---
 
 ## Project 5: BMI Calculator
 
-### About
+About:
 The project is BMI Calculator. 
-### Link
+
+Link:
 [🔗 BMI Calculator](https://aakanksha77.github.io/MiniJSProjects/BMICalculator/)
 
 ## Project 5: Weather App
 
-### About
+About:
 The project is Weather App. 
-### Link
+
+Link:
 [🔗 BMI Calculator](https://aakanksha77.github.io/MiniJSProjects/WeatherApp/)
 
 
