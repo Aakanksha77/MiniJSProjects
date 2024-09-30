@@ -12,8 +12,10 @@ This repository contains mini projects developed as part of the [LearnProjectBui
 ## Project 1: BGColor Generater
 
 About: 
+
 The project is simply and just about the color change 
-Link
+Link:
+
 [🔗 BgColorGenerater](https://aakanksha77.github.io/MiniJSProjects/BgColorGenerater/)
 
 ---
