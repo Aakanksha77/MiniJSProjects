@@ -59,12 +59,22 @@ The project is BMI Calculator.
 Link:
 [🔗 BMI Calculator](https://aakanksha77.github.io/MiniJSProjects/BMICalculator/)
 
-## Project 5: Weather App
+## Project 6: Weather App
 
 About:
 The project is Weather App. 
 
 Link:
-[🔗 BMI Calculator](https://aakanksha77.github.io/MiniJSProjects/WeatherApp/)
+[🔗 Weather App](https://aakanksha77.github.io/MiniJSProjects/WeatherApp/)
+
+## Project 7: Todo App
+
+About:
+The project is Todo App. 
+
+Link:
+[🔗 Todo App](https://aakanksha77.github.io/MiniJSProjects/TodoList/)
+
+
 
 
