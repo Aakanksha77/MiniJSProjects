@@ -72,7 +72,9 @@ Link:
 
 About:
 The project is Todo App. 
+
 The task in it are saved in you local storage.
+
 Link:
 [🔗 Todo App](https://aakanksha77.github.io/MiniJSProjects/TodoList/)
 
