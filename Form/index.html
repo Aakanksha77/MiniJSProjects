@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <form id="registrationForm">
+        <label for="fullName">Full Name:</label>
+        <input type="text" id="fullName" name="fullName" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+
+        <button type="submit">Register</button>
+
+    </form>
+    <button onclick = displayFormData()> Display</button>
+
+    <div id="formDataDisplay"></div>
+
+    <table>
+        <tr>
+          <th>FullName</th>
+          <th>Email</th>
+          <th>Contact</th>
+        </tr>
+       
+        <tbody id="result"></tbody>
+    </table>
+
+    <!-- Js Link -->
+     <script src="./index.js"></script>
+</body>
+</html>
