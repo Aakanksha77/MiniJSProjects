@@ -3,7 +3,7 @@
 Welcome to the **JavaScript Mini Projects** repository! This collection includes a variety of **beginner-friendly web projects** built using **HTML**, **CSS**, and **JavaScript**. Whether you're starting your journey in web development or just looking to practice, these projects are perfect for you! 🚀
 
 
-## 📌 Projects Included
+## 📌 Projects Included With 🌍 Live Demo
 
 Each project serves as a mini project to help you practice different JavaScript concepts:
 
@@ -16,7 +16,6 @@ Each project serves as a mini project to help you practice different JavaScript 
 - **To-Do List App** – Manage your tasks by adding, deleting, and marking them as completed. [🔗 Todo App](https://aakanksha77.github.io/MiniJSProjects/TodoList/)
 - **Weather App** – Get real-time weather data using an API based on your location. [🔗 Weather App](https://aakanksha77.github.io/MiniJSProjects/WeatherApp/)
 
-## 🌍 Live Demo
 ## 📂 Project Structure
 
 Here’s a quick overview of the directory structure:
@@ -53,16 +52,3 @@ Follow these simple steps to get started with the projects:
 ## 📜 License
 
 This project is **open-source** and available under the **MIT License**. Feel free to fork, modify, and contribute!
-
----
-
-This **README.md** structure is clean, easy to navigate, and gives users all the information they need to get started. It introduces the project, provides clear instructions for setup, and briefly explains each project. Let me know if you'd like to tweak anything further! 😊
-
-
-
-
-
-
-
-
-
