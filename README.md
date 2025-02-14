@@ -47,6 +47,21 @@ Follow these simple steps to get started with the projects:
    cd BMICalculator
    ```
 
+## 🤝 Contributing  
+
+Contributions are welcome! Here's how you can help:  
+- 🐛 Report bugs or issues.  
+- 🌟 Suggest new features or improvements.  
+- 🔧 Submit pull requests.  
+
+---
+
+## ⭐ Show Your Support  
+
+If you liked this project, please give it a ⭐ on [GitHub](https://github.com/aakanksha77/coloswitcher)!  
+
+Happy Coding! 🎉  
+
 3. **Open the `index.html` file** in your browser to see the project in action!
 
 ## 📜 License
