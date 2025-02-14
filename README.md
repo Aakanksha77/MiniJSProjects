@@ -46,7 +46,9 @@ Follow these simple steps to get started with the projects:
    ```bash
    cd BMICalculator
    ```
+3. **Open the `index.html` file** in your browser to see the project in action!
 
+---
 ## 🤝 Contributing  
 
 Contributions are welcome! Here's how you can help:  
@@ -56,14 +58,16 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
+## 📜 License
+
+This project is **open-source** and available under the **MIT License**. Feel free to fork, modify, and contribute!
+
+---
+
 ## ⭐ Show Your Support  
 
 If you liked this project, please give it a ⭐ on [GitHub](https://github.com/aakanksha77/coloswitcher)!  
 
 Happy Coding! 🎉  
 
-3. **Open the `index.html` file** in your browser to see the project in action!
 
-## 📜 License
-
-This project is **open-source** and available under the **MIT License**. Feel free to fork, modify, and contribute!
